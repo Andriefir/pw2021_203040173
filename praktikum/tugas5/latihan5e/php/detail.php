@@ -17,17 +17,17 @@ if(!isset($_GET['id'])) {
 require 'functions.php';
 
 //Mengambil id dari url
-$Id = $_GET['id'];
+$id = $_GET['id'];
 
 //melakukan query dengan parameter id yang di ambil dari url 
-$phones = query("SELECT * FROM phones WHERE id = $Id")[0];
+$phone = query("SELECT * FROM phones WHERE id = $Id")[0];
 ?>
  
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
-    <title>Latihan 4C</title>
+    <title>Latihan 5C</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
 </head>
 <body>
