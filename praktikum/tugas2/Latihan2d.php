@@ -1,10 +1,13 @@
-<?php
-/*
-    Mochammad Andrie Firmansyah
-    203040173
-    Jumat,13.00
+<?php 
+/* 
+  Mochammad Andrie Firmansyah
+  203040173
+  Jumat 13.00
+  Latihan2d
+  https://github.com/Andriefir/pw2021_203040173
 */
 ?>
+
 <?php
 
 function hitungDeterminan($a, $b, $c, $d)

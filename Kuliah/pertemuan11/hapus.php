@@ -1,4 +1,14 @@
 <?php 
+/* 
+	Mochammad Andrie Firmansyah
+	203040173
+	Jumat 13.00
+	Pertemuan 11
+	https://github.com/Andriefir/pw2021_203040173
+*/
+?>
+
+<?php 
 require 'functions.php';
 
 // jika tidak ada URL

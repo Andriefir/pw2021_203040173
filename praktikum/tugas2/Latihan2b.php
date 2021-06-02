@@ -1,3 +1,14 @@
+<?php 
+/* 
+  Mochammad Andrie Firmansyah
+  203040173
+  Jumat 13.00
+  Latihan2b
+  https://github.com/Andriefir/pw2021_203040173
+*/
+?>
+
+
 <?php
 /*
    Mochammad Andrie Firmansyah
