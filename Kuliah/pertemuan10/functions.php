@@ -2,11 +2,11 @@
 /* 
 	Mochammad Andrie Firmansyah
 	203040173
-	Jumat 13.00
 	Pertemuan 10
 	https://github.com/Andriefir/pw2021_203040173
 */
 ?>
+
 <?php  
 
 function koneksi()
