@@ -6,7 +6,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php 
 require '../functions.php';
 $mahasiswa = cari($_GET['keyword']);

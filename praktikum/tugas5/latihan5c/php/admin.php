@@ -5,14 +5,12 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 // Menghubungkan dengan file php lainnya
 require 'functions.php';
 // Melakukan query
 $phones = query("SELECT * FROM phones");
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

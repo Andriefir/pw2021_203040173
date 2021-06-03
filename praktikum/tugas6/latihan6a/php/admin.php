@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 // Menghubungkan dengan file php lainnya
 require 'functions.php';
@@ -25,9 +24,7 @@ if (isset($_GET['cari'])) {
 } else {
   $phones = query("SELECT * FROM phones");
 }
-
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -90,4 +87,3 @@ if (isset($_GET['cari'])) {
 	</table>
 	</div>
 </body>
-</html> 

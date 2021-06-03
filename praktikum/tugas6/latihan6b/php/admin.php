@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 // Menghubungkan dengan file php lainnya
 require 'functions.php';
@@ -27,7 +26,6 @@ if (isset($_GET['cari'])) {
 }
 
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

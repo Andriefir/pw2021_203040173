@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php
 session_start();
 require 'functions.php';
@@ -37,9 +36,7 @@ if (isset($_POST['submit'])) {
   }
   $error = true;
 }
-
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

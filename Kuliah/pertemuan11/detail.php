@@ -6,7 +6,6 @@
 	https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 require 'functions.php';
 
@@ -16,7 +15,6 @@ $id = $_GET['id'];
 // Query mahasiswa berdasarkan id
 $mhs = query("SELECT * FROM mahasiswa WHERE id = $id");
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

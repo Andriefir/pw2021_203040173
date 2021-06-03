@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 //mengecek apakah  ada id yang di kirimkan
 //jika tidak maka akan di kembalikan ke halaman index.php
@@ -22,7 +21,6 @@ $Id = $_GET['id'];
 //melakukan query dengan parameter id yang di ambil dari url 
 $phones = query("SELECT * FROM phones WHERE id = $Id")[0];
 ?>
- 
 <!DOCTYPE html>
 <html>
 <head>

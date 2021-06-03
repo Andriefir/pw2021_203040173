@@ -7,7 +7,6 @@ Pertemuan 3 - 19 Februari 2021
 Mempelajari tentang Pengulangan dan Pengkondisian dalam PHP
 */
 ?>
-
 <?php 
 // Pengkondisian / Percabangan
 /*
@@ -26,5 +25,4 @@ if( $x < 20 ) {
 } else {
     echo "Salah";
 }
-
 ?>

@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 //fungsi untuk melakukan koneksi ke database
 function koneksi() {
@@ -107,7 +106,4 @@ function registrasi($data)
 
     return mysqli_affected_rows($conn);
  }
-
-
-
 ?> 

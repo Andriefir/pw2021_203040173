@@ -11,7 +11,6 @@ $terkenal = ["Mohammad Salah", "Cristiano Ronaldo", "Lionel Messi
 ", "Zlatan Ibrahimovic", "Neymar Jr"];
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 

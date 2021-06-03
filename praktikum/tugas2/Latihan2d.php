@@ -7,7 +7,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php
 
 function hitungDeterminan($a, $b, $c, $d)
@@ -32,7 +31,6 @@ function hitungDeterminan($a, $b, $c, $d)
 }
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 

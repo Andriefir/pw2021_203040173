@@ -6,7 +6,6 @@
 	https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 require 'functions.php';
 $mahasiswa = query("SELECT * FROM mahasiswa");
@@ -16,7 +15,6 @@ if (isset($_POST['cari'])) {
 	$mahasiswa = cari($_POST['keyword']);
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

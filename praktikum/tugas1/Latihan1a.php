@@ -7,8 +7,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
-
 <?php 
 for( $i = 1; $i <= 3; $i++ ) {
 	for( $j = 1; $j <= 3; $j++ ) {

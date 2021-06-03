@@ -7,7 +7,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 session_start();
 
@@ -24,7 +23,6 @@ $id = $_GET['id'];
 // Query mahasiswa berdasarkan id
 $phone = query("SELECT * FROM phones WHERE id = $id");
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -89,7 +87,6 @@ $phone = query("SELECT * FROM phones WHERE id = $id");
 		</div>
 	</div>
 	  
-
     <!-- Optional JavaScript; choose one of the two! -->
 
     <!-- Option 1: Bootstrap Bundle with Popper -->

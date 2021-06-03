@@ -18,7 +18,6 @@ $pemain = [
 ];
 
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 

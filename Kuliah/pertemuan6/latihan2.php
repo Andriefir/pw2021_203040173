@@ -7,7 +7,6 @@
     Materi Minggu ini mempelajari mengenai Associative Array
 */
 ?>
-
 <?php
 // $mahasiswa = [
 //     ["Mochammad Andrie Firmansyah", "203040173", "Teknik Informatika", "andriefirmansyah334@gmail.com"]
@@ -25,7 +24,6 @@ $mahasiswa = [
         "gambar" => "Andrie.png"
     ]
 ];
-
 ?>
 <!DOCTYPE html>
 <html lang="en">

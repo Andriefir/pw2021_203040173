@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 // Melakukan dengan file php lainnya
 require 'php/functions.php';

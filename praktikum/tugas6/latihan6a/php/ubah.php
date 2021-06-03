@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php  
 require 'functions.php';
 
@@ -30,7 +29,6 @@ if (isset($_POST['ubah'])) {
 
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

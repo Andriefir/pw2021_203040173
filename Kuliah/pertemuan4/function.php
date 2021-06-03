@@ -7,15 +7,11 @@ Pertemuan 4 - 26 Februari 2021
 Mempelajari tentang Date dan Function dalam PHP
 */
 ?>
-
-
 <?php
 function salam($waktu = "Datang", $nama = "Admin") {
     return "Selamat $waktu, $nama!";
 }
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -6,7 +6,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 session_start();
 
@@ -71,4 +70,4 @@ if (isset($_POST['cari'])) {
 		<?php endforeach; ?>
 	</table>
 </body>
-</html>
+</html>s

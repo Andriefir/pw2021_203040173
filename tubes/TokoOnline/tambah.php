@@ -7,7 +7,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php
 session_start();
 
@@ -29,7 +28,6 @@ if (isset($_POST['tambah'])) {
     echo "data gagal ditambahkan!";
   }
 }
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -140,7 +138,6 @@ if (isset($_POST['tambah'])) {
           }
       </script>
     </div> 
-
 
     <!-- Optional JavaScript; choose one of the two! -->
 

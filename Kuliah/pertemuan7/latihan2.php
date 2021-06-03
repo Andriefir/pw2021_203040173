@@ -7,7 +7,6 @@
     Materi Minggu ini mempelajari mengenai GET & POST
 */
 ?>
-
 <?php 
 // Cek apakah tidak ada data di $_GET
 if( !isset($_GET["nama"]) || 

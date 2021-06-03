@@ -7,7 +7,6 @@
 	https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 session_start();
 
@@ -24,7 +23,6 @@ if (isset($_POST['cari'])) {
 	$phones = cari($_POST['keyword']);
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>

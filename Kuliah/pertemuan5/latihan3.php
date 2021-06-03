@@ -7,7 +7,6 @@ Pertemuan 5 - 23 Februari 2021 )
 Materi Minggu ini mempelajari mengenai Array
 */
 ?>
-
 <?php
 $mahasiswa = [
     ["Mochammad Andrie Firmansyah", "203040173", "TIF", "andriefirmansyah334@gmail.com"],

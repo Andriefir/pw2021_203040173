@@ -7,7 +7,6 @@
     Materi Minggu ini mempelajari mengenai Associative Array
 */
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +45,6 @@ $angka = [
     <?php endforeach; ?>    
     <div class="clear"></div>
 <?php endforeach; ?>
-
-    
+  
 </body>
 </html>

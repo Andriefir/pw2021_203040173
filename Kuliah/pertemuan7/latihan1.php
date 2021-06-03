@@ -7,7 +7,6 @@
     Materi Minggu ini mempelajari mengenai GET & POST
 */
 ?>
-
 <?php 
 // Superglobals 
 // Variable global milik php

@@ -6,7 +6,6 @@
 	https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 // Koneksi ke DB & Plih Database
 $conn = mysqli_connect('localhost', 'root', '', 'pw_203040173');
@@ -27,7 +26,6 @@ while ($row = mysqli_fetch_assoc($result)) {
 // Tampung ke variabel mahasiswa
 $mahasiswa = $rows;
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 require 'functions.php';
 
@@ -23,7 +22,6 @@ if (isset($_POST['register'])) {
 
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

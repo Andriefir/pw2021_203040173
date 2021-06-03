@@ -6,7 +6,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php 
 session_start();
 session_destroy();

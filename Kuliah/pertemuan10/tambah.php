@@ -6,7 +6,6 @@
     https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php
 require 'functions.php';
 
@@ -21,7 +20,6 @@ if (isset($_POST['tambah'])) {
     echo "data gagal ditambahkan!";
   }
 }
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -69,5 +67,4 @@ if (isset($_POST['tambah'])) {
         </ul>
     </form>
 </body>
-
 </html>

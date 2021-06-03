@@ -6,7 +6,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php 
 require 'functions.php';
 
@@ -21,7 +20,6 @@ if (isset($_POST['registrasi'])) {
 	}
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

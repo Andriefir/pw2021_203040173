@@ -7,7 +7,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php
 session_start();
 
@@ -41,9 +40,7 @@ if (isset($_POST['ubah'])) {
     echo "data gagal diubah!";
   }
 }
-
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
   <head>

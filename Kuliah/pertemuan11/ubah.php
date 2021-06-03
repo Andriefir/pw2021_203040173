@@ -6,7 +6,6 @@
   https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php
 require 'functions.php';
 
@@ -33,7 +32,6 @@ if (isset($_POST['ubah'])) {
     echo "data gagal diubah!";
   }
 }
-
 ?>
 <!DOCTYPE html>
 <html>
@@ -82,5 +80,4 @@ if (isset($_POST['ubah'])) {
         </ul>
     </form>
 </body>
-
 </html>

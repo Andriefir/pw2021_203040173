@@ -7,7 +7,6 @@
     https://github.com/Andriefir/pw2021_203040173
 */
 ?>
-
 <?php  
 session_start();
 
@@ -23,7 +22,6 @@ if (isset($_POST['login'])) {
 	$login = login($_POST);
 }
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

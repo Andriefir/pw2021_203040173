@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 //fungsi untuk melakukan koneksi ke database
 function koneksi() {
@@ -54,4 +53,4 @@ function hapus($id)
     mysqli_error($conn);
     return mysqli_affected_rows($conn);
 }
-?> 
+?>

@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 session_start();
 
@@ -32,9 +31,7 @@ if (isset($_GET['cari'])) {
 } else {
   $phones = query("SELECT * FROM phones");
 }
-
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>

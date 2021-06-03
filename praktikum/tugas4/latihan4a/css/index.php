@@ -5,7 +5,6 @@
     Jumat,13.00
 */
 ?>
-
 <?php 
 // Melakukan koneksi ke database
 $conn = mysqli_connect("localhost", "root", "");
@@ -14,7 +13,6 @@ mysqli_select_db($conn, "pw_tubes_203040173");
 // Melakukan Query dari database
 $result = mysqli_query($conn, "SELECT * FROM phones");
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
