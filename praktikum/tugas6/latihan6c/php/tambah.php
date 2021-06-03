@@ -29,7 +29,7 @@ if (isset($_POST['tambah'])) {
 	}
 
 }
-?>
+?>s
 <!DOCTYPE html>
 <html>
 <head>
